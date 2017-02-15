@@ -8,7 +8,7 @@
 
 ---
 
-[action](https://laravel.com/docs/master/controllers#basic-controllers) - **действие** (~~экшн~~)
+[action](https://laravel.com/docs/master/controllers#basic-controllers) - **действие, экшн**
 
 advanced — **продвинутый**
 
@@ -16,7 +16,7 @@ anonymous function (nameless function, lambda) - **анонимная функц
 
 app, application — **приложение**
 
-[artisan](https://laravel.com/docs/master/artisan) - **artisan, командный интерфейс** (~~артизан~~)
+[artisan](https://laravel.com/docs/master/artisan) - **артизан**
 
 asset - **ресурс**
 
@@ -24,15 +24,15 @@ asset - **ресурс**
 
 basic - **базовые, основные**
 
-billing - **биллинг?**
+billing - **биллинг**
 
 binary - **двоичный**
 
-bind - **привязать** (~~байндить, забайндить~~)
+bind - **привязать** (биндить, байндить)
 
-binding - **привязка** (~~байндинг~~)
+binding - **привязка** (байндинг, биндинг)
 
-bottleneck - **?**
+bottleneck - **узкое место (в системе)**
 
 branch - **ветка**
 
@@ -44,17 +44,17 @@ bus — **шина**
 
 [cache](https://laravel.com/docs/master/cache) - **кэш**
 
-[caching](https://laravel.com/docs/master/cache) - **кэширование** (~~кэшинг~~)
+[caching](https://laravel.com/docs/master/cache) - **кэширование**
 
 checkout - **?**
 
-CI, continuous integration - **постоянная интеграция**
+CI, continuous integration - **непрерывная интеграция**
 
 clone - **клонирование**
 
 closure - **замыкание**
 
-[collection](https://laravel.com/docs/master/collections) - **коллекция** (~~колекшэн~~)
+[collection](https://laravel.com/docs/master/collections) - **коллекция**
 
 commit - **фиксация изменений, коммит**
 
@@ -64,9 +64,9 @@ commit - **фиксация изменений, коммит**
 
 [cookies](https://laravel.com/docs/master/requests#cookies) - **куки**
 
-[dependency injection, di](https://laravel.com/docs/master/controllers#dependency-injection-and-controllers) - **внедрение зависимоти** (~~дипенденси, инъекция~~)
+[dependency injection, di](https://laravel.com/docs/master/controllers#dependency-injection-and-controllers) - **внедрение зависимоти**
 
-deploy - **развернуть (проект)** (~~деплоить~~)
+deploy - **развернуть (проект или правки)** (~~деплоить~~)
 
 [encryption](https://laravel.com/docs/master/encryption) - **шифрование**
 
@@ -74,7 +74,7 @@ enumeration - **перечисление**
 
 environment - **окружение**
 
-[event](https://laravel.com/docs/master/events) - **событие** (~~ивэнт~~)
+[event](https://laravel.com/docs/master/events) - **событие**
 
 facade — **фасад**
 
@@ -82,7 +82,7 @@ factory - **фабрика**
 
 fault tolerance - **отказоустойчивость**
 
-[firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события** (~~файринг, выстрел~~)
+[firing event](https://laravel.com/docs/master/events#firing-events) - **инициация события**
 
 fork - **ответвление**
 
@@ -92,15 +92,15 @@ footer - **подвал** (в разметке)
 
 framework - **фреймворк**
 
-[hashing](https://laravel.com/docs/master/hashing) - **хэширование** (~~хэшинг~~)
+[hashing](https://laravel.com/docs/master/hashing) - **хэширование**
 
 header - **шапка** (в разметке), **заголовок** (в запросе, ответе)
 
-[helper](https://laravel.com/docs/master/helpers) - **помощник** (~~хэлпер~~)
+[helper](https://laravel.com/docs/master/helpers) - **помощник, хелпер**
 
-[hook](https://laravel.com/docs/master/scheduling#task-hooks) - **хук? крюк?**
+[hook](https://laravel.com/docs/master/scheduling#task-hooks) - **хук**
 
-[input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные** (~~инпут~~)
+[input](https://laravel.com/docs/master/requests#retrieving-input) - **входные данные, инпут**
 
 instance - **экземпляр**
 
@@ -108,27 +108,27 @@ integrity - **целостность (БД)**
 
 iterable - **перечисляемый**
 
-iterator - **?**
+iterator - **итератор**
 
 merge - **слияние**
 
-[middleware](https://laravel.com/docs/master/middleware) - **посредник** (~~мидл, мидлвэр, промежуточное ПО~~)
+[middleware](https://laravel.com/docs/master/middleware) - **посредник, мидвэр**
 
-migration — **миграция** (~~мигрейшн~~)
+migration — **миграция**
 
-[mocking](https://laravel.com/docs/master/testing#mocking) - **имитация, подделка** (~~мокинг, мокить~~)
+[mocking](https://laravel.com/docs/master/testing#mocking) - **имитация, мокинг**
 
 layout - **раскладка** (клавиатуры, элементов)
 
-lifecycle - **цикл жизни?**
+lifecycle - **жизненный цикл**
 
 [listener](https://laravel.com/docs/master/events#defining-listeners) - **слушатель** (~~листенер~~)
 
 [localization](https://laravel.com/docs/master/localization) - **локализация**
 
-log — **журнал**
+log — **журнал, лог**
 
-logging — **журналирование**
+logging — **логирование**
 
 management - **управление**
 
@@ -140,88 +140,88 @@ model - **модель**
 
 namespace - **пространство имен**
 
-normalize - **?**
+normalize - **нормализовать**
 
-notation - **нотация, форма представления**
+notation - **нотация**
 
 package - **пакет**
 
 [pagination](https://laravel.com/docs/master/pagination) - **пагинация**
 
-[partial](https://laravel.com/docs/master/blade#control-structures) (routes, views) - **частичные** (~~паршлы~~)
+[partial](https://laravel.com/docs/master/blade#control-structures) (routes, views) - **частичный**
 
 pattern - **шаблон**
 
-production - **?**
+production - **продакшн**
 
-[query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, составитель запросов** (~~квери билдер~~)
+[query builder](https://laravel.com/docs/master/queries) - **конструктор запросов, квери билдер**
 
-[queue](https://laravel.com/docs/master/queues) - **очередь** (~~кью, ку~~)
+[queue](https://laravel.com/docs/master/queues) - **очередь**
 
-redirect - **перенаправление**
+redirect - **перенаправление, редирект**
 
-[relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **отношение? связь? зависимость** (~~релейшн~~)
+[relationship, relation](https://laravel.com/docs/master/eloquent-relationships) - **связь, релейшен**
 
-release - **выпуск?** (~~релиз~~)
+release - **релиз**
 
-[request](https://laravel.com/docs/master/requests) - **запрос** (~~риквест~~)
+[request](https://laravel.com/docs/master/requests) - **запрос, реквест**
 
-[response](https://laravel.com/docs/master/responses) - **ответ** (~~риспонз~~)
+[response](https://laravel.com/docs/master/responses) - **ответ, респонс**
 
-[resource controller](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **контроллер ресурсов?, ресурсный контролле?**
+[resource controller](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **ресурс-контроллер**
 
 [restful](https://laravel.com/docs/master/controllers#restful-resource-controllers) - **RESTful**
 
-[route](https://laravel.com/docs/master/routing) - **маршрут** (~~рут, раут, роут~~)
+[route](https://laravel.com/docs/master/routing) - **маршрут, роут**
 
-[routing](https://laravel.com/docs/master/routing) - **маршрутизация** (~~рутинг, роутинг, раутинг~~)
+[routing](https://laravel.com/docs/master/routing) - **маршрутизация, роутинг**
 
-[schedule](https://laravel.com/docs/master/scheduling) - **раcписание** (~~скедул~~)
+[schedule](https://laravel.com/docs/master/scheduling) - **раcписание**
 
-[seeding](https://laravel.com/docs/master/seeding) - **начальная загрузка?** (~~сидинг, сидить~~)
+[seeding](https://laravel.com/docs/master/seeding) - **заполнение тестовыми данными, сидинг**
 
 [serialization](https://laravel.com/docs/master/eloquent-serialization) - **сериализация**
 
 service - **сервис**
 
-[service container, ioc](https://laravel.com/docs/master/container) - **контейнер** (~~сёрвис контейнер, иок~~)
+[service container, ioc](https://laravel.com/docs/master/container) - **сервис-контейнер, контейнер**
 
-service provider - **поставщик услуг?**
+service provider - **поставщик услуг, сервис-провайдер**
 
 [session](https://laravel.com/docs/master/session) - **сессия**
 
-sidebar - **боковая панель**
+sidebar - **боковая панель, колонка**
 
-singleton - **?**
+singleton - **синглтон, одиночка**
 
 staging - **?**
 
-[stack](https://laravel.com/docs/master/blade#stacks) - **?**
+[stack](https://laravel.com/docs/master/blade#stacks) - **стек**
 
 status bar - **строка состояния**
 
-[storage](https://laravel.com/docs/master/filesystem) - **хранилище** (~~сторэдж~~)
+[storage](https://laravel.com/docs/master/filesystem) - **хранилище**
 
-[task](https://laravel.com/docs/master/scheduling) - **задача** (~~тэск, таска~~)
+[task](https://laravel.com/docs/master/scheduling) - **задача, таск** 
 
-[template](https://laravel.com/docs/master/blade) - **шаблон** (~~темплейт, темпа~~)
+[template](https://laravel.com/docs/master/blade) - **шаблон**
 
-[testing](https://laravel.com/docs/master/testing) - **тестирование** (~~тестинг~~)
+[testing](https://laravel.com/docs/master/testing) - **тестирование**
 
 toolbar - **панель инструментов**
 
-trait - **?**
+trait - **трейт**
 
-transaction - **транзация**
+transaction - **транзакция**
 
-unit-test — **unit-тесты**
+unit-test — **юнит-тест**
 
 [unserialization](https://laravel.com/docs/master/eloquent-serialization) - **десериализация**
 
-[validation](https://laravel.com/docs/master/validation) - **валидация** (~~cверка, проверка~~)
+[validation](https://laravel.com/docs/master/validation) - **валидация**
 
-vendor - **поставщик?** (~~вендор~~)
+vendor - **поставщик, вендор**
 
-view - **представление, вид** (~~вью~~)
+view - **представление, вью, вьюха**
 
 
